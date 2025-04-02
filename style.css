@@ -1,0 +1,17 @@
+h1 {
+    color: crimson;
+}
+
+.marron {
+    color: brown;
+}
+
+.rouge {
+    color: indianred;
+}
+
+p {
+    font-size: 15px;
+    
+        width: 70%;
+}
